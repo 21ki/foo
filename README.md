@@ -3,7 +3,7 @@ The package is used to convert cookie strings into python dict, in order to use 
 ## INSTALLATION
 ```
 pip install git+https://github.com/fenuo/foo.git@master
-pip install git+ssh://git@github.com/myuser/foo.git@my_version#subdirectory=stackoverflow
+#pip install git+ssh://git@github.com/myuser/foo.git@my_version#subdirectory=stackoverflow
 ```
 
 ## UASAGE
