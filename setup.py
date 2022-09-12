@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
     name='foo',  # How you named your package folder (MyLib)
     packages=['foo'],  # Chose the same as "name"
-    version='0.0.1',  # Start with a small number and increase it with every change you make
+    version='0.0.2',  # Start with a small number and increase it with every change you make
     # license='NA',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
     description='convert web cookie string to dictionary',  # Give a short description about your library
     author='fenuo',  # Type in your name
